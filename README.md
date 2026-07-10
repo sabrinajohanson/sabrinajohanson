@@ -43,8 +43,8 @@ Currently building at the frontier of **Quality Engineering + AI** - where autom
 |---|---|---|
 | [calculator-playwright](https://github.com/sabrinajohanson/calculator-playwright) | Python · Playwright · Pytest | Web calculator with 17 E2E tests and 6 documented bugs |
 | [saucedemo-playwright](https://github.com/sabrinajohanson/saucedemo-playwright) | TypeScript · Playwright · POM | 20 E2E tests for e-commerce using Page Object Model |
-| `restful-booker-api-tests` | Python · Requests | API testing - coming soon |
-| `ai-qa-agent` | Python · LLM · RAG | AI applied to QA - coming soon |
+| [restful-booker-restassured](https://github.com/sabrinajohanson/restful-booker-restassured) | Java · Rest Assured · TestNG | 7 API tests covering full CRUD operations |
+| `ai-qa-agent` | Python · LLM · RAG | AI applied to QA — coming soon |
 
 ---
 
