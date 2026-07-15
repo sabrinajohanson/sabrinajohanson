@@ -66,3 +66,4 @@ Currently building at the frontier of **Quality Engineering + AI** - where autom
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinajohanson/?locale=en)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:johansonsabrina1@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=sabrinajohanson&color=blue)
