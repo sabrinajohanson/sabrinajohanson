@@ -1,35 +1,45 @@
 # Hi, I'm Sabrina Johanson 👋
+
 **AI Quality Engineer · SDET · Test Architecture · Agentic AI**
-> Quality engineering is not about finding bugs.  
+
+> Quality engineering is not about finding bugs.
 > It's about designing the systems, feedback loops, and workflows that prevent them at scale.
+
 I'm a Quality Engineer and SDET with **13 years in technology** and **9 years focused on software quality**. My work sits at the intersection of test architecture, AI-augmented automation, and engineering excellence.
+
 Currently building at the frontier of **Quality Engineering + AI** - where automation is intelligent, quality is systemic, and teams move faster because quality is designed in, not bolted on.
+
 ---
+
 ## Tech Stack
-**Test Automation**  
+
+**Test Automation**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-**Languages**  
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-**AI & Emerging**  
+**AI & Emerging**
 ![AI](https://img.shields.io/badge/Agentic_AI-412991?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-**CI/CD & Tools**  
+**CI/CD & Tools**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
+
 ## Portfolio
+
+**[View the live Consolidated Test Dashboard](https://sabrinajohanson.github.io/qa-portfolio-pipeline/)** - aggregated, always-up-to-date test results across all 5 repositories below.
 
 **Traditional QA**
 
@@ -48,22 +58,34 @@ Currently building at the frontier of **Quality Engineering + AI** - where autom
 | `rag-qa-validator` | Python · RAG | Validates whether LLM answers stay faithful to source documentation - coming soon |
 | `ai-qa-agent` | Python · LLM · Agentic AI | Full QA agent with memory, tools, and autonomous flow - coming soon |
 
+**Pipeline Orchestration**
+
+| Project | Stack | Description |
+|---|---|---|
+| [qa-portfolio-pipeline](https://github.com/sabrinajohanson/qa-portfolio-pipeline) | GitHub Actions · Python | Orchestrates all 5 repositories' CI in phases and publishes the consolidated dashboard above |
+
 ---
+
 ## Currently Exploring
 - 🤖 AI Agents and Multi-Agent Systems
 - 🔗 MCP (Model Context Protocol)
 - 🧪 LLM Testing and non-deterministic validation
 - 🎯 Fine-tuning models for QA use cases
 - 🔐 Penetration testing for AI systems
+
 ---
+
 ## Highlights
 - Reduced monthly production bugs from **14 to 0** at AB InBev (Bees Brasil)
 - Reduced QA cycle from **7 days to 1** at SoftExpert
 - Designed AI-assisted QA workflow with prompt engineering at RDI Software
 - Created "Intelligent Coverage Review" - a shift-left QA process using an AI agent with a specialized prompt to surface edge cases, side effects, and root cause analysis before testing begins, cutting ticket analysis time significantly
 - Led E2E automation architecture across multiple distributed products
+
 ---
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinajohanson/?locale=en)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:johansonsabrina1@gmail.com)
+
 ![Profile views](https://komarev.com/ghpvc/?username=sabrinajohanson&color=blue)
